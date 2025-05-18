@@ -1,0 +1,24 @@
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição / empacotamento
+*.so
+dist/
+build/
+*.egg-info/
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+
+# Arquivos de configuração do IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Outros arquivos temporários
+.DS_Store
